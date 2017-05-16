@@ -1,0 +1,8 @@
+- [ ] Build home page template
+- [ ] Build individual campsite template
+- [ ] Research templating tools
+- [ ] Compile data
+- [ ] Format the data in a readable data format
+- [ ] Research mapping tools (Google Maps, etc.)
+- [ ] Write frontend scripts to build map
+- [ ] Define visual styling
